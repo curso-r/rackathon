@@ -1,0 +1,48 @@
+Reunião Plano {#reuniao-plano}
+-------------
+
+# Anotações {#anotacoes}
+
+## Palestra: montando pacotes em R
+
+1. o pacote devtools
+1. arquivo DESCRIPTION
+1. documentação com roxygen2
+1. data e data-raw
+1. funções check(), document(), install()
+1. travis-ci e appveyor
+1. discussão sobre r-hub.
+
+## grammar of captchas
+
+- Tipo: pacote
+    - Nome: decryptr
+
+Atividades:
+
+1. Planejar e arquitetar decryptr
+1. programar decryptr
+1. adaptar todos os pacotes de captchas
+1. montar novos pacotes de captchas
+1. pensar em como armazenar as coisas
+1. criar um shiny
+1. publicar o shiny e pedir pro público
+1. fazer post e publicar
+
+## projeto gg gilberto
+
+![](https://www.ime.usp.br/~giapaula/images/Gilberto.jpg) 
+
+- Tipo: pacote
+    - Nome: ggdiag
+
+Atividades:
+
+1. ler arquivos do poleto e gilberto
+1. buscar pacotes que já fazem essas coisas
+1. arquitetar o pacote
+    - minimo produto viável: funcionando diagnósticos do gilberto
+1. puxar as funções de outros pacotes
+1. fazer post e publicar
+
+Abs
