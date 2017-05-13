@@ -1,0 +1,31 @@
+---
+title: "como criar pacotes"
+author: "Bia, Evelin e Milene"
+date: "May 13, 2017"
+output: html_document
+---
+
+#passo-a-passo
+
+1. Repositório no Git
+2. Baixa o repositório na máquina
+3. Abrir o projeto no RStudio
+4. devtools::setup('diretório')
+5. entrar na pasta R
+6. novo script
+7. escreva uma #musthave função
+8. documente isso (Como??)
+9. #' na mesma ordem do help
+10. digite @ e veja suas opções. Exemplo: @param para 
+os argumentos da função
+11. não se esqueça do @export caso queira que apareça na somar::
+12. devtools::document() para criar a ajuda - usa roxygen2
+  altera arquivo NAMESPACE
+13. devtools::use_mit_license() 
+14. devtools::check()
+15. commit
+16. push
+15. devtools::use_travis
+
+
+Saiba mais em: r-pkgs.had.co.nz
