@@ -7,14 +7,14 @@ output: html_document
 
 #passo-a-passo
 
-1. Repositório no Git
-2. Baixa o repositório na máquina
+1. Criar um repositório em https://github.com 
+2. Download do repositório no seu computador 
 3. Abrir o projeto no RStudio
 4. devtools::setup('diretório')
-5. entrar na pasta R
-6. novo script
-7. escreva uma #musthave função
-8. documente isso (Como??)
+5. Entrar na pasta R
+6. Novo script:
+7. Crie sua função (apenas funções)
+8. Documente isso (Como??)
 9. #' na mesma ordem do help
 10. digite @ e veja suas opções. Exemplo: @param para 
 os argumentos da função
